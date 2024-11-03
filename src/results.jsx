@@ -1,7 +1,8 @@
 import React from "react";
 import { Component } from "react";  
-import './style.css'
-import data from './data.json'
+import './style.css';
+import data from './data.json';
+
 class ResultsSum extends Component {
 	state = {  };
 	getAverage = () => {
